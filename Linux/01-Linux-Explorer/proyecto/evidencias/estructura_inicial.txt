@@ -1,0 +1,11 @@
+proyecto:
+documentos
+evidencias
+scripts
+
+proyecto/documentos:
+
+proyecto/evidencias:
+estructura_inicial.txt
+
+proyecto/scripts:
