@@ -15,8 +15,8 @@ Se ejecutó la secuencia de comprobación de la pila TCP/IP en Ubuntu:
 ## 3. Escaneo de Servicios y SO con Nmap (Kali Linux)
 Desde Kali Linux se identificaron los hosts activos en la subred y se auditó la máquina objetivo `192.168.236.131`:
 ```bash
-sudo nmap -sV -O 192.168.236.131
-```
+sudo nmap -sV -O 192.168.236.131```
+
 | Puerto | Estado | Servicio | Descripción |
 | :--- | :--- | :--- | :--- |
 | 135/TCP | Open | msrpc | Microsoft Windows RPC |
